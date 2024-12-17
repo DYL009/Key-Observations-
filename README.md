@@ -29,7 +29,7 @@ Key Correlation:
 
 Stock Price increases significantly outpaced EPS growth.
 This could indicate increased market speculation, optimism, or future growth expectations driving up stock prices despite slower EPS growth.
-Overall Takeaways:
+###overall Observations :
 Strong Financial Growth:
 Both Revenue and Net Income grew significantly over the years, especially post-2020. Revenue has shown a more consistent upward trend.
 
